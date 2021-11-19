@@ -1,5 +1,5 @@
 import axios from "axios"
 const axiosClient=axios.create({
-    baseURL:"https://images.ctfassets.net"
+    baseURL:"http://76f2-34-125-97-216.ngrok.io"
 })
 export default axiosClient
