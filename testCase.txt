@@ -1,0 +1,6 @@
+- ảnh query cùng màu với ảnh trong dataset
+- object trong ảnh query cùng màu với background
+  + cat_3.jpeg
+- object trong ảnh query gần giống object trong ảnh database
+  + squirrel.jpeg
+  + elephant_e.jpg
